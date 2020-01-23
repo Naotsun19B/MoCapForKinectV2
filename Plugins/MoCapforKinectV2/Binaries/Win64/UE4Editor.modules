@@ -1,0 +1,8 @@
+{
+	"BuildId": "5660361",
+	"Modules": 
+	{
+		"MoCapforKinectV2": "UE4Editor-MoCapforKinectV2.dll",
+		"MoCapforKinectV2Ed": "UE4Editor-MoCapforKinectV2Ed.dll"
+	}
+}
